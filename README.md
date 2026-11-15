@@ -1,2 +1,3 @@
-# lopyclips-download
-LopyClips for Windows: installer downloads.
+# Clipster for Windows
+
+Get Clipster at the store. This repo holds product images.
